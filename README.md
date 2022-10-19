@@ -11,5 +11,5 @@
 
 ## X16 Haptic Vest
 
-* [X16 Vest with 5V vibro motors and LiPo battery](X16%20Vest/5V%20Vibros%20DIY%20%2B%20LiPo/README.md)
-* [X16 Vest with 5V vibro motors and External Power Bank](5V%20Vibros%20DIY%20Kit%20%2B%20External%20Power%20Bank/README.md)
+* [X16 Vest with 5V vibro motors and External Power Bank](X16%20Vest/5V%20Vibros%20DIY%20Kit%20%2B%20External%20Power%20Bank)
+* [X16 Vest with 5V vibro motors and LiPo battery](X16%20Vest/5V%20Vibros%20DIY%20%2B%20LiPo)
