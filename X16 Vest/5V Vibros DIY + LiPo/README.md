@@ -4,14 +4,15 @@
 
 ## Bill of materials
 
-| Component        | Quantity |    Price | Link  |
-| :--------------- | -------: | -------: | :---- |
-| ESP32-DevKitC    |       x1 | ~US $1.3 | `n/a` |
-| ULN2803A         |       x2 | ~US $0.3 | `n/a` |
-| 5V Vibro Motors  |      x16 | ~US $1.1 | `n/a` |
-| TP4056           |       x1 | ~US $0.3 | `n/a` |
-| MT3608           |       x1 | ~US $0.4 | `n/a` |
-| LiPo Battery     |       x1 | ~US $7.0 | `n/a` |
+| Component                        | Quantity |    Price | Link  |
+| :------------------------------- | -------: | -------: | :---- |
+| `ESP32-DevKitC`                  |       x1 | ~US $1.3 | `n/a` |
+| `ULN2803A`                       |       x2 | ~US $0.3 | `n/a` |
+| 5V Vibro Motors                  |      x16 | ~US $1.1 | `n/a` |
+| `TP4056` (Optional)              |       x1 | ~US $0.3 | `n/a` |
+| `MT3608` (Optional)              |       x1 | ~US $0.4 | `n/a` |
+| LiPo Battery (Optional)          |       x1 | ~US $7.0 | `n/a` |
+| `MAX17048` Fuel Gauge (Optional) |       x1 | ~US $5   | `n/a` |
 
 ## Schematic
 
