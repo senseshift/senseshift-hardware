@@ -26,8 +26,6 @@
 
 ![Schematic](schematic_bb.png)
 
-> Please note motor indices
-
 ### Circuit Diagram
 
 > See [Main Board - PWM X16 - DIY Kit](../../OpenHaptics%20Boards/Main%20Board%20-%20PWM%20X16%20-%20DIY%20Kit/) for full hardware
