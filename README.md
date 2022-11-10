@@ -38,6 +38,6 @@
 
 ## Haptic Feet Device
 
-* [x3 Forearm Sleeve](Devices/Hand%20Gauntlets/ESP32%20+%20Integrated%20PWM/)
+* [x3 Feet Device](Devices/Feet%20Devices/ESP32%20+%20Integrated%20PWM/)
 
 > Supported devices: **Tactosy for Feet**
