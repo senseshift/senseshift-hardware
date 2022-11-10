@@ -11,6 +11,5 @@
 
 ## X16 Haptic Vest
 
-<!-- TODO: rename directories, I've left thm since I shared direct links, and don't want them to break -->
-* [X16 Vest with 5V vibro motors with PCA9685](X16%20Vest/5V%20Vibros%20DIY%20Kit%20%2B%20External%20Power%20Bank)
-* [X16 Vest with 5V vibro motors without PCA9685](X16%20Vest/5V%20Vibros%20DIY%20%2B%20LiPo)
+* [X16 Vest with PCA9685](X16%20Vest/ESP32%20%2B%20PCA9685/)
+* [X16 Vest without PCA9685](X16%20Vest/ESP32%20%2B%20Integrated%20PWM/)
