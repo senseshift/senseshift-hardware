@@ -8,7 +8,7 @@
 
 ## Bill of materials
 
-> **Note**
+> **Note**  
 > Following table is for a single device, and you most likely will require 2 of them
 
 | Component                                      | Quantity |    Price | Link  |
