@@ -1,12 +1,15 @@
-# X6 Facial Haptic Interface
+# X6 Haptic Forearm Sleeve
 
-> X6 Facial Haptic Interface with 3V/5V vibro motors, optionally powered by LiPo battery
+> X6 Haptic Forearm Sleeve with 3V/5V vibro motors, optionally powered by LiPo battery
 
 ## Compatible Devices
 
 * Tactal
 
 ## Bill of materials
+
+> **Note**
+> Following table is for a single device, and you most likely will require 2 of them
 
 | Component                                      | Quantity |    Price | Link  |
 | :--------------------------------------------- | -------: | -------: | :---- |
