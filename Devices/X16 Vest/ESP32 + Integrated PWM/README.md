@@ -1,6 +1,10 @@
 # X16 Haptic Vest
 
-> X16 Haptic Vest with 5V vibro motors powered by LiPo battery
+> X16 Haptic Vest with 3V/5V vibro motors, optionally powered by LiPo battery
+
+## Compatible Devices
+
+* TactSuit X16
 
 ## Bill of materials
 

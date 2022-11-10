@@ -1,6 +1,10 @@
-# X16 Haptic Vest
+# X6 Facial Haptic Interface
 
-> X16 Haptic Vest with 5V vibro motors powered by LiPo battery
+> X6 Facial Haptic Interface with 3V/5V vibro motors, optionally powered by LiPo battery
+
+## Compatible Devices
+
+* Tactal
 
 ## Bill of materials
 
