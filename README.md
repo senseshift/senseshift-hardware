@@ -9,7 +9,13 @@
 
 > Each configuration have it's own BOM and wiring diagram
 
-## X16 Haptic Vest
+## Haptic Vest
+
+### X16 Haptic Vest
 
 * [X16 Vest with PCA9685](Devices/X16%20Vest/ESP32%20%2B%20PCA9685/)
 * [X16 Vest without PCA9685](Devices/X16%20Vest/ESP32%20%2B%20Integrated%20PWM/)
+
+## Haptic Face Interface
+
+* [x6 Facial Interface](Devices/Face%20Interface/ESP32%20+%20Integrated%20PWM/)
