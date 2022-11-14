@@ -32,7 +32,7 @@
 
 ## Haptic Gauntlet
 
-* [x3 Forearm Sleeve](Devices/Hand%20Gauntlets/ESP32%20+%20Integrated%20PWM/)
+* [x3 Hand Gauntlet](Devices/Hand%20Gauntlets/ESP32%20+%20Integrated%20PWM/)
 
 > Supported devices: **Tactosy for Hands**
 
