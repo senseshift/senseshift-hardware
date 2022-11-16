@@ -9,7 +9,35 @@
 
 > Each configuration have it's own BOM and wiring diagram
 
-## X16 Haptic Vest
+## Haptic Vest
 
-* [X16 Vest with PCA9685](X16%20Vest/ESP32%20%2B%20PCA9685/)
-* [X16 Vest without PCA9685](X16%20Vest/ESP32%20%2B%20Integrated%20PWM/)
+### X16 Haptic Vest
+
+* [X16 Vest with PCA9685](Devices/X16%20Vest/ESP32%20%2B%20PCA9685/)
+* [X16 Vest without PCA9685](Devices/X16%20Vest/ESP32%20%2B%20Integrated%20PWM/)
+
+> Supported devices: **TactSuit X16**
+
+## Haptic Face Interface
+
+* [x6 Facial Interface](Devices/Face%20Interface/ESP32%20+%20Integrated%20PWM/)
+
+> Supported devices: **Tactal**
+
+## Haptic Forearm Sleeve
+
+* [x6 Forearm Sleeve](Devices/Forearm%20Sleeves/ESP32%20+%20Integrated%20PWM/)
+
+> Supported devices: **Tactosy for Arms**
+
+## Haptic Gauntlet
+
+* [x3 Hand Gauntlet](Devices/Hand%20Gauntlets/ESP32%20+%20Integrated%20PWM/)
+
+> Supported devices: **Tactosy for Hands**
+
+## Haptic Feet Device
+
+* [x3 Feet Device](Devices/Feet%20Devices/ESP32%20+%20Integrated%20PWM/)
+
+> Supported devices: **Tactosy for Feet**

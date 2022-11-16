@@ -1,14 +1,21 @@
-# X16 Haptic Vest
+# X3 Haptic Feet Device
 
-> X16 Haptic Vest with 5V vibro motors powered by LiPo battery
+> X3 Haptic Feet Device with 3V/5V vibro motors, optionally powered by LiPo battery
+
+## Compatible Devices
+
+* Tactosy for Feet
 
 ## Bill of materials
+
+> **Note**  
+> Following table is for a single device, and you most likely will require 2 of them
 
 | Component                                      | Quantity |    Price | Link  |
 | :--------------------------------------------- | -------: | -------: | :---- |
 | `ESP32-DevKitC`                                |       x1 | ~US $1.3 | `n/a` |
-| `ULN2803A`                                     |       x2 | ~US $0.3 | `n/a` |
-| 3V/5V Vibro Motors                             |      x16 | ~US $1.1 | `n/a` |
+| `ULN2803A`                                     |       x1 | ~US $0.3 | `n/a` |
+| 3V/5V Vibro Motors                             |       x3 | ~US $1.1 | `n/a` |
 | `TP4056` (Optional)                            |       x1 | ~US $0.3 | `n/a` |
 | `MT3608` (Optional)                            |       x1 | ~US $0.4 | `n/a` |
 | LiPo Battery (Optional)                        |       x1 | ~US $7.0 | `n/a` |
@@ -18,7 +25,7 @@
 
 ### Required Pins
 
-* PWA pins: `32`, `33`, `25`, `26`, `27`, `14`, `12`, `13`, `19`, `18`, `5`, `17`, `16`, `4`, `2`, `15`
+* PWA pins: `32`, `33`, `25`
 * SDA: `21`
 * SCL: `22`
 
