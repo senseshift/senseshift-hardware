@@ -13,34 +13,40 @@
 
 #### X16 Haptic Vest
 
+> Supported devices: **TactSuit X16**
+
 * [X16 Vest with PCA9685](Devices/X16%20Vest/ESP32%20%2B%20PCA9685/)
 * [X16 Vest without PCA9685](Devices/X16%20Vest/ESP32%20%2B%20Integrated%20PWM/)
 
-> Supported devices: **TactSuit X16**
+#### X40 Haptic Vest
+
+> Supported devices: **TactSuit X40**, **Tactot**
+
+* [X40 Vest with x2 PCA9685](Devices/X40%20Vest/ESP32%20%2B%20x2%20PCA9685%20%2B%20Integrated%20PWM/)
 
 ### Haptic Face Interface
 
-* [x6 Facial Interface](Devices/Face%20Interface/ESP32%20+%20Integrated%20PWM/)
-
 > Supported devices: **Tactal**
+
+* [x6 Facial Interface](Devices/Face%20Interface/ESP32%20+%20Integrated%20PWM/)
 
 ### Haptic Forearm Sleeve
 
-* [x6 Forearm Sleeve](Devices/Forearm%20Sleeves/ESP32%20+%20Integrated%20PWM/)
-
 > Supported devices: **Tactosy for Arms**
+
+* [x6 Forearm Sleeve](Devices/Forearm%20Sleeves/ESP32%20+%20Integrated%20PWM/)
 
 ### Haptic Gauntlet
 
-* [x3 Hand Gauntlet](Devices/Hand%20Gauntlets/ESP32%20+%20Integrated%20PWM/)
-
 > Supported devices: **Tactosy for Hands**
+
+* [x3 Hand Gauntlet](Devices/Hand%20Gauntlets/ESP32%20+%20Integrated%20PWM/)
 
 ### Haptic Feet Device
 
-* [x3 Feet Device](Devices/Feet%20Devices/ESP32%20+%20Integrated%20PWM/)
-
 > Supported devices: **Tactosy for Feet**
+
+* [x3 Feet Device](Devices/Feet%20Devices/ESP32%20+%20Integrated%20PWM/)
 
 ## Licenses
 
