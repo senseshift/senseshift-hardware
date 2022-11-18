@@ -2,6 +2,9 @@
 
 > X3 Haptic Gauntlet with 3V/5V vibro motors, optionally powered by LiPo battery
 
+> **Warning**  
+> **Disclaimer:** This design is a **functional prototype**, not a complete product. There is absolutely no warranty, and you will make this design at your OWN risk. I will not be responsible for any damages associated with this design.
+
 ## Compatible Devices
 
 * Tactosy for Hands
