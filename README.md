@@ -48,6 +48,10 @@
 
 * [x3 Feet Device](Devices/Feet%20Devices/ESP32%20+%20Integrated%20PWM/)
 
+## OpenHaptics PCBs
+
+PCBs are currently stored in [`feature/haptic-boards`](https://github.com/openhaptics/openhaptics-hardware/tree/feature/haptic-boards) branch (See PR [#3](https://github.com/openhaptics/openhaptics-hardware/pull/3)). Those designsed haven't been tested and will be merged, as soon as they are confirmed to be working 100%
+
 ## Licenses
 
 [![CC-BY-SA-4.0](https://img.shields.io/github/license/openhaptics/openhaptics.github.io)](/LICENSE)
