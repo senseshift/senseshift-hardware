@@ -7,7 +7,7 @@
 
 ## Compatible Devices
 
-* Tactal
+* Tactosy for Arms
 
 ## Bill of materials
 
