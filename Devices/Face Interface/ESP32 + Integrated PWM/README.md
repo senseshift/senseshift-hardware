@@ -9,6 +9,10 @@
 
 * Tactal
 
+## Guides:
+
+* Official [Build Guide](https://openhaptics.github.io/guides/face-interface/esp32-breadboard)
+
 ## Bill of materials
 
 | Component                                      | Quantity |    Price | Link  |

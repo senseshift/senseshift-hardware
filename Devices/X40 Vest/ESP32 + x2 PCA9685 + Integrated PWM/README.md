@@ -9,6 +9,10 @@
 
 * TactSuit X40, Tactot
 
+## Guides:
+
+* [Build Guide](https://docs.google.com/document/d/1j84h-7OIkRO9KTNtq_mKxri_7PsSNUnL/view) by ProBendingVR
+
 ## Bill of materials
 
 | Component                                      | Quantity |    Price | Link  |
