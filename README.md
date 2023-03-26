@@ -28,6 +28,13 @@ We provide a variety of different step-by-step guides, made by our community, on
 
 * [X40 Vest with x2 PCA9685](Devices/X40%20Vest/ESP32%20%2B%20x2%20PCA9685%20%2B%20Integrated%20PWM/)
 
+### Haptic Glove
+
+> Supported devices: **TactGloves**
+
+* [x6 Haptic Glove](Devices/Haptic%20Gloves/ESP32%20%2B%20Integrated%20PWM/)
+
+
 ### Haptic Face Interface
 
 > Supported devices: **Tactal**
