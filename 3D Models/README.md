@@ -1,1 +1,1 @@
-# 3D Models for OpenHaptics
+# 3D Models for SenseShift

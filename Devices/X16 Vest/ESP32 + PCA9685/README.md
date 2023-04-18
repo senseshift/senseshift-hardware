@@ -35,6 +35,6 @@
 
 ### Circuit Diagram
 
-> See [Main Board - PWM X16 - DIY Kit](../../OpenHaptics%20Boards/Main%20Board%20-%20PWM%20X16%20-%20DIY%20Kit/) for full hardware
+> See [Main Board - PWM X16 - DIY Kit](../../SenseShift%20Boards/Main%20Board%20-%20PWM%20X16%20-%20DIY%20Kit/) for full hardware
 
-![Ciruit](../../../OpenHaptics%20Boards/Main%20Board%20-%20PWM%20X16%20-%20DIY%20Kit/schematic.png)
+![Ciruit](../../../SenseShift%20Boards/Main%20Board%20-%20PWM%20X16%20-%20DIY%20Kit/schematic.png)

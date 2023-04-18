@@ -1,13 +1,13 @@
-# OpenHaptics Hardware
+# SenseShift Hardware
 
-> Hardware Schematics for [OpenHaptics Firmware](https://github.com/openhaptics/openhaptics-firmware)
+> Hardware Schematics for [SenseShift Firmware](https://github.com/senseshift/senseshift-firmware)
 
 [![Discord](https://img.shields.io/discord/966090258104062023?label=Discord&logo=discord)](https://discord.gg/YUtRKAqty2)
 [![Developer's Twitter](https://img.shields.io/twitter/follow/leon0399?color=%231DA1F2&label=Developer%27s%20Twitter&logo=twitter)](https://twitter.com/leon0399)
 
 ## Guides
 
-We provide a variety of different step-by-step guides, made by our community, on our [Documentation](https://openhaptics.github.io/guides/getting-started)!
+We provide a variety of different step-by-step guides, made by our community, on our [Documentation](https://senseshift.github.io/guides/getting-started)!
 
 ## Schematics
 
@@ -59,12 +59,12 @@ We provide a variety of different step-by-step guides, made by our community, on
 
 * [x3 Feet Device](Devices/Feet%20Devices/ESP32%20+%20Integrated%20PWM/)
 
-## OpenHaptics PCBs
+## SenseShift PCBs
 
-PCBs are currently stored in [`feature/haptic-boards`](https://github.com/openhaptics/openhaptics-hardware/tree/feature/haptic-boards) branch (See PR [#3](https://github.com/openhaptics/openhaptics-hardware/pull/3)). Those designsed haven't been tested and will be merged, as soon as they are confirmed to be working 100%
+PCBs are currently stored in [`feature/haptic-boards`](https://github.com/senseshift/senseshift-hardware/tree/feature/haptic-boards) branch (See PR [#3](https://github.com/senseshift/senseshift-hardware/pull/3)). Those designsed haven't been tested and will be merged, as soon as they are confirmed to be working 100%
 
 ## Licenses
 
-[![CC-BY-SA-4.0](https://img.shields.io/github/license/openhaptics/openhaptics.github.io)](/LICENSE)
+[![CC-BY-SA-4.0](https://img.shields.io/github/license/senseshift/senseshift.github.io)](/LICENSE)
 
 Each project directory has it's own `LICENSE` file inside and licensed under corresponding license. Otherwise, if no `LICENSE` file is provided, it is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license

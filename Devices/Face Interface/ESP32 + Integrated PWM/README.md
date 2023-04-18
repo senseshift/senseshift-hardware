@@ -11,7 +11,7 @@
 
 ## Guides:
 
-* Official [Build Guide](https://openhaptics.github.io/guides/face-interface/esp32-breadboard)
+* Official [Build Guide](https://senseshift.github.io/guides/face-interface/esp32-breadboard)
 
 ## Bill of materials
 
